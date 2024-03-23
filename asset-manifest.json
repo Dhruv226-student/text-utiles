@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dhruv226-student/text-utiles.git/static/css/main.f855e6bc.css",
+    "main.js": "/Dhruv226-student/text-utiles.git/static/js/main.3800a8f8.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Dhruv226-student/text-utiles.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Dhruv226-student/text-utiles.git/index.html",
+    "main.f855e6bc.css.map": "/Dhruv226-student/text-utiles.git/static/css/main.f855e6bc.css.map",
+    "main.3800a8f8.js.map": "/Dhruv226-student/text-utiles.git/static/js/main.3800a8f8.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Dhruv226-student/text-utiles.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3800a8f8.js"
+  ]
+}
